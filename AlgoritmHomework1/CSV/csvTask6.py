@@ -1,3 +1,4 @@
+# Сгенерируйте файл csv более 1 млн строк с похожей структурой данных, запишите полученные данные CSV файл.
 from lorem_text import lorem
 from random import randint
 import csv
